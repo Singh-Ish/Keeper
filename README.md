@@ -1,2 +1,2 @@
 # kepper
-A ote taking react app : clone of google notes 
+A Note taking react app very similar to  google notes 
