@@ -1,2 +1,2 @@
 # kepper
-Created with CodeSandbox
+A ote taking react app : clone of google notes 
